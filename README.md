@@ -26,8 +26,10 @@ My own repos fall roughly into these categories:
 
 I'd say 99 % are experiments/exercises for me to learn / try things.
 
-Some repos I "saved":
+A repo I "saved":
 - Natural Language Learning
+  - https://github.com/nczempin/fltr
+
 
 A bit more about me:
 - German Freelancer Profil (very long and ugly): https://www.gulp.de/gulp2/g/spezialisten/profil/nczempin
