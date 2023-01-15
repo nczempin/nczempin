@@ -1,27 +1,27 @@
 My own repos fall roughly into these categories:
 - CPU Design
-  - https://github.com/nczempin/NICNAC16-FPGA
+  - https://github.com/nczempin/NICNAC16-FPGA (Verilog)
 - Operating Systems Development
-  - https://github.com/nczempin/naxos
+  - https://github.com/nczempin/naxos (C)
 - Programming Language Learning
-  - https://github.com/nczempin/go-learn
+  - https://github.com/nczempin/go-learn (Go)
 - (Linux) Systems Programming
-  - https://github.com/nczempin/linxsysprog
+  - https://github.com/nczempin/linxsysprog (C)
 - Retro Computing
-  - https://github.com/nczempin/c64-programming
+  - https://github.com/nczempin/c64-programming (6502 Assembly)
 - Machine Learning
-  - https://github.com/nczempin/gym-tic-tac-toe
-  - https://github.com/nczempin/gym-nim
+  - https://github.com/nczempin/gym-tic-tac-toe (Python)
+  - https://github.com/nczempin/gym-nim (Python)
 - Chess Engines
-  - https://github.com/nczempin/arcadia-chess-engine
-  - https://github.com/nczempin/zathras
-  - https://github.com/nczempin/eden-chess-engine
+  - https://github.com/nczempin/arcadia-chess-engine (C++)
+  - https://github.com/nczempin/zathras (C++)
+  - https://github.com/nczempin/eden-chess-engine (Java)
 - Game Development
-  - https://github.com/nczempin/fluxagama was meant as an exercise for my sons when they were learning to code. One of them's a video game developer now, but probably not because of this :-D
+  - https://github.com/nczempin/fluxagama (Python) was meant as an exercise for my sons when they were learning to code. One of them's a video game developer now, but probably not because of this :-D
   - Game Jams
-    - https://github.com/nczempin/lizard-journey
-    - https://github.com/nczempin/Turres-Monacorum
-    - https://github.com/nczempin/Turn-the-Corner
+    - https://github.com/nczempin/lizard-journey (Lua)
+    - https://github.com/nczempin/Turres-Monacorum (Lua)
+    - https://github.com/nczempin/Turn-the-Corner (C#)
  
 
 I'd say 99 % are experiments/exercises for me to learn / try things.
