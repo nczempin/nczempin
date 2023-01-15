@@ -7,6 +7,8 @@ My own repos fall roughly into these categories:
   - https://github.com/nczempin/go-learn (Go)
 - (Linux) Systems Programming
   - https://github.com/nczempin/linxsysprog (C)
+- Git Internals
+  - https://github.com/nczempin/mygit (C++)
 - Retro Computing
   - https://github.com/nczempin/c64-programming (6502 Assembly)
 - Machine Learning
@@ -22,9 +24,10 @@ My own repos fall roughly into these categories:
     - https://github.com/nczempin/lizard-journey (Lua)
     - https://github.com/nczempin/Turres-Monacorum (Lua)
     - https://github.com/nczempin/Turn-the-Corner (C#)
- 
 
 I'd say 99 % are experiments/exercises for me to learn / try things.
+
+That said, they could still benefit from a bit more description etc. (TODO)
 
 A repo I "saved":
 - Natural Language Learning
