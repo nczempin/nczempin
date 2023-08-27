@@ -33,5 +33,6 @@ A repo I "saved":
 
 
 A bit more about me:
+- My LinkedIn: https://www.linkedin.com/in/nczempin/
 - German Freelancer Profil (very long and ugly): https://www.gulp.de/gulp2/g/spezialisten/profil/nczempin
 - English version with less detail; still ugly: https://www.gulp.de/gulp2/home/resume/nczempin?4
