@@ -6,7 +6,7 @@ My own repos fall roughly into these categories:
 - Programming Language Learning
   - https://github.com/nczempin/go-learn (Go)
 - (Linux) Systems Programming
-  - https://github.com/nczempin/linxsysprog (C)
+  - https://github.com/nczempin/linuxsysprog (C)
 - Git Internals
   - https://github.com/nczempin/mygit (C++)
 - Machine Learning
