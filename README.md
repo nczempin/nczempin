@@ -9,8 +9,6 @@ My own repos fall roughly into these categories:
   - https://github.com/nczempin/linxsysprog (C)
 - Git Internals
   - https://github.com/nczempin/mygit (C++)
-- Retro Computing
-  - https://github.com/nczempin/c64-programming (6502 Assembly)
 - Machine Learning
   - https://github.com/nczempin/gym-tic-tac-toe (Python)
   - https://github.com/nczempin/gym-nim (Python)
