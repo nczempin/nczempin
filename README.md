@@ -17,6 +17,7 @@ My own repos fall roughly into these categories:
   - https://github.com/nczempin/zathras (C++)
   - https://github.com/nczempin/eden-chess-engine (Java)
 - Game Development
+  - https://github.com/nczempin/antisuns-public-dev-docs/wiki just the link to a sign-up form for now; infos and pictures will be next. I am actually working on a commercial PC game now. It's called "Antisuns". That link is my current, early page where I collect the dev info that I can share publicly.
   - https://github.com/nczempin/fluxagama (Python) was meant as an exercise for my sons when they were learning to code. One of them's a video game developer now, but probably not because of this :-D
   - Game Jams
     - https://github.com/nczempin/lizard-journey (Lua)
