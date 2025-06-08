@@ -28,7 +28,7 @@ I'd say 99 % are experiments/exercises for me to learn / try things.
 
 That said, they could still benefit from a bit more description etc. (TODO)
 
-A repo I "saved":
+A repo I briefly "saved" (the original developer came back):
 - Natural Language Learning
   - https://github.com/nczempin/fltr
 
